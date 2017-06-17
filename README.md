@@ -182,5 +182,3 @@ $('#modal-sample').modalSteps({
     disableNextButton: true
 });
 ```
-
-**THANKS TO, Eduardo Orige [https://github.com/orige]**
